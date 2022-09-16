@@ -1,0 +1,15 @@
+C:\Users\Mon-ing\KFC\bin\Debug\net6.0\KFC.exe
+C:\Users\Mon-ing\KFC\bin\Debug\net6.0\KFC.deps.json
+C:\Users\Mon-ing\KFC\bin\Debug\net6.0\KFC.runtimeconfig.json
+C:\Users\Mon-ing\KFC\bin\Debug\net6.0\KFC.dll
+C:\Users\Mon-ing\KFC\bin\Debug\net6.0\KFC.pdb
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.csproj.AssemblyReference.cache
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.AssemblyInfoInputs.cache
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.AssemblyInfo.cs
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.csproj.CoreCompileInputs.cache
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.dll
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\refint\KFC.dll
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.pdb
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\KFC.genruntimeconfig.cache
+C:\Users\Mon-ing\KFC\obj\Debug\net6.0\ref\KFC.dll
